@@ -2,7 +2,7 @@
 """
 Created on Mon May 13 23:58:56 2019
 
-@author: random
+@author: liangwhatwei
 """
 annual_salary = int(input("Enter your annual salary: ")) #ask user to input their amount of annual salary
 portion_saved = float(input("Enter the percent of your salary to save, as a decimal: ")) #ask user to input the amount of portion of salary to be saved
